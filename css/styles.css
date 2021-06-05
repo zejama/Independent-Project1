@@ -13,6 +13,11 @@ img {
 div {
   font-size: medium;
 }
+#wrapper {
+  margin-left:auto;
+  margin-right:auto;
+  width:960px;
+}
 
 h2 {
   font-family: Georgia, serif;
