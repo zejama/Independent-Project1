@@ -8,17 +8,19 @@ img {
   margin-right: auto;
   margin-left: auto;
   width: 15%;
+  float: left;
 }
 
-
 #wrapper {
-  width: 820px;
+  width: 600px;
   margin-left: auto;
   margin-right: auto;
+  text-align: left;
 }
 
 h2 {
   font-family: Georgia, serif;
+  text-align: center;
 }
 
 body {
@@ -32,7 +34,6 @@ h3 {
   font-size: Large;
   text-align: center;
 }
-
 
 
 .my-class {
