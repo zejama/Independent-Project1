@@ -2,14 +2,14 @@
 
 #### _This Is a Portfolio Webpage made using HTML & CSS_
 
-#### By _**Zeinab Jama
+#### By _**Zeinab Jama_
 
 ## Technologies Used
 
 * _HTML_
 * _CSS_
 * _Git_
-*_Github_
+* _Github_
 
 ## Description
 
