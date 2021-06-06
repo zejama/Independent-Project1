@@ -2,7 +2,7 @@
 
 #### _This Is a Portfolio Webpage made using HTML & CSS_
 
-#### By _**Zeinab Jama_
+#### By _**Zeinab Jama**_
 
 ## Technologies Used
 
@@ -28,7 +28,7 @@ _This webpage displays Zeinab's Portfolio including a list of her previous proje
 
 ## Known Bugs
 
-* _No known issues 
+* _No known issues_
 
 ## License
 
