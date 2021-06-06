@@ -24,7 +24,7 @@ _This webpage displays Zeinab's Portfolio including a list of her previous proje
 * _Type `git clone` and paste the url of the repository_
 * _Press Enter_
 * _Navigate to your desktop folder on your device and click the `index.html` file on your browser._
-* _OR you can click on this [Githubpage]()._
+* _OR you can click on this [Githubpage](https://zejama.github.io/Independent-Project1/)._
 
 ## Known Bugs
 
